@@ -1,1 +1,1 @@
-# cosmosquotient.github.io
+# 🧋 A website serving for CosmosQuotient
